@@ -4433,6 +4433,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pager .disabled > a,
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
+
 .pager .disabled > span {
   color: #777;
   cursor: not-allowed;
@@ -4548,7 +4549,7 @@ a.list-group-item.active > .badge,
   padding: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;
+  background-image:url('../images/bg-showcase.jpg');
 }
 .jumbotron h1,
 .jumbotron .h1 {

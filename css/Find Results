@@ -1,0 +1,58 @@
+Searching 6 files for "jumbotron"
+
+/Users/hannahwest/Documents/github/NMIX-NewMedia-Redesign/css/HHJ.html:
+   56    </div><!-- /.container-fluid -->
+   57  </nav>
+   58: <div class="jumbotron">
+   59    <div class="container">
+   60      <img src="images/bg-showcase.jpg"</>
+
+/Users/hannahwest/Documents/github/NMIX-NewMedia-Redesign/css/bootstrap.css:
+ 4545    margin-left: 3px;
+ 4546  }
+ 4547: .jumbotron {
+ 4548    padding: 30px;
+ 4549    margin-bottom: 30px;
+ ....
+ 4551    background-image: images/bg-showcase.jpg;
+ 4552  }
+ 4553: .jumbotron h1,
+ 4554: .jumbotron .h1 {
+ 4555    color: inherit;
+ 4556  }
+ 4557: .jumbotron p {
+ 4558    margin-bottom: 15px;
+ 4559    font-size: 21px;
+ 4560    font-weight: 200;
+ 4561  }
+ 4562: .jumbotron > hr {
+ 4563    border-top-color: #d5d5d5;
+ 4564  }
+ 4565: .container .jumbotron {
+ 4566    border-radius: 6px;
+ 4567  }
+ 4568: .jumbotron .container {
+ 4569    max-width: 100%;
+ 4570  }
+ 4571  @media screen and (min-width: 768px) {
+ 4572:   .jumbotron {
+ 4573      padding-top: 48px;
+ 4574      padding-bottom: 48px;
+ 4575    }
+ 4576:   .container .jumbotron {
+ 4577      padding-right: 60px;
+ 4578      padding-left: 60px;
+ 4579    }
+ 4580:   .jumbotron h1,
+ 4581:   .jumbotron .h1 {
+ 4582      font-size: 63px;
+ 4583    }
+
+/Users/hannahwest/Dropbox/website (3)/bootstraptest.html:
+   70      				
+   71  
+   72:     					<div class="jumbotron">  
+   73    
+   74  
+
+13 matches across 3 files
