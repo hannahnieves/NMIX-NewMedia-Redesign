@@ -4551,8 +4551,9 @@ a.list-group-item.active > .badge,
   margin-bottom: 30px;
   color: inherit;
   height:400px;
-  background-image:url('../images/jumbopic.jpg');
-  background-repeat: no-repeat;
+  background-image:url('../images/eco-data.jpg');
+  width:100%;
+  background-repeat: repeat-x;
 
 }
 .jumbotron h1,
