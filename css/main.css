@@ -3,7 +3,7 @@ width:100%
 height100%;
 }
 
-#container #header {
+#containerheader {
 	width:100%
 	height 300px;
 }
@@ -16,6 +16,7 @@ height100%;
 
 #rightcontainer {
 	float:right;
-	padding-right: 80px;
-	padding-top: 10px;
 }
+
+.thumbnail {}
+
