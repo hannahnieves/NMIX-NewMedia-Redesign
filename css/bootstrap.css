@@ -4555,7 +4555,9 @@ a.list-group-item.active > .badge,
   margin-bottom: 30px;
   color: inherit;
   height:400px;
-  background-image:url('../images/bg-showcase.jpg');
+  background-image:url('../images/jumbopic.jpg');
+  background-repeat: no-repeat;
+
 }
 .jumbotron h1,
 .jumbotron .h1 {
