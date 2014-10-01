@@ -10,8 +10,12 @@ height100%;
 
 #leftcontainer {
 	float:left;
+	padding-top:25px;
+
 }
 
 #rightcontainer {
 	float:right;
+	padding-right: 80px;
+	padding-top: 10px;
 }
