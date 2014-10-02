@@ -60,7 +60,8 @@ dfn {
   font-style: italic;
 }
 h1 {
-  margin: .67em 0;
+ 
+  margin: 15em 0;
   font-size: 2em;
 }
 mark {
@@ -4586,6 +4587,7 @@ a.list-group-item.active > .badge,
   .jumbotron h1,
   .jumbotron .h1 {
     font-size: 63px;
+    font-family: 
   }
 }
 .thumbnail {
