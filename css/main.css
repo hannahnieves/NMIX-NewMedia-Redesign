@@ -194,7 +194,7 @@ height100%;
             height: 120px;
             padding: 0px;
         }
-        .event-list > li > time,
+        .event-list > li > time
         .event-list > li > img  {
             display: inline-block;
         }
@@ -215,6 +215,7 @@ height100%;
             margin: 0px;
         }
         .event-list > li > .info {
+            color:red;
             position: relative;
             height: 120px;
             text-align: left;
